@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "snapshots": [
+    {
+      "commitSha": "b4fae1248121146facc49dde43c36b2ff4d0edc1",
+      "generatedAt": "2026-08-07T03:30:12.625Z",
+      "total": 0,
+      "errors": 0,
+      "warnings": 0,
+      "advisor": 0,
+      "lints": 0,
+      "logCapture": 0
+    }
+  ]
+}
